@@ -6,7 +6,26 @@ This project builds a workflow to analyze the Pfam family **PF03060**, from fetc
 
 ## Folder Tree
 
-<pre> ``` Biological_Data_project/ │ ├── notebook_01_pipeline.ipynb ├── README.md │ ├── data/ │ ├── raw_PF03060_uniprot.tsv │ ├── PF03060_full_length.fasta │ ├── PF03060_metadata.csv │ ├── pf03060_domains.fasta │ └── domain_metadata.csv │ ├── results/ │ ├── pf03060_msa_raw.fasta │ ├── pf03060_msa_clean.fasta │ └── ... │ └── scripts/ └── utils.py ``` </pre>
+<pre> ``` Biological_Data_project/
+│
+├── notebook_01_pipeline.ipynb      # Your main pipeline notebook (Step 1–5)
+├── README.md                       # Instructions, description, software used
+│
+├── data/                           # Raw and processed data files
+│   ├── raw_PF03060_uniprot.tsv     # Full UniProt entries (Step 1)
+│   ├── PF03060_full_length.fasta   # Extracted full-length sequences (Step 2)
+│   ├── PF03060_metadata.csv        # Metadata for sequences (Step 2)
+│   ├── pf03060_domains.fasta       # Domain sequences (Step 2)
+│   └── domain_metadata.csv         # Domain metadata (Step 2)
+│
+├── results/                        # Results from analyses (MSA, HMM, etc.)
+│   ├── pf03060_msa_raw.fasta       # Crude seed-based MSA (Step 3)
+│   ├── pf03060_msa_clean.fasta     # Cleaned MSA (Step 3b)
+│   └── ...                         # Additional analysis outputs (e.g., HMMs)
+│
+└── scripts/                        # Optional: separate Python helper scripts
+    └── utils.py                     # Functions for fetching, processing sequences
+``` </pre>
 
 
 ## Requirements
@@ -39,6 +58,7 @@ notebooks/notebook_01_pipeline
 
 
 ### Output
+<pre> ```
 data/ — input/output sequences and metadata
 results/ — MSAs, cleaned MSAs, PSSM, HMM files
-
+``` </pre>
