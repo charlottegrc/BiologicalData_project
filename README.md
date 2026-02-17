@@ -2,30 +2,105 @@
 
 # PF03060 Protein Family Analysis Pipeline
 
-This project builds a workflow to analyze the Pfam family **PF03060**, from fetching sequences to building MSAs, PSSMs, and HMMs.
+# Project Overview
+
+The goal of this project is to:
+
+1. Build statistical models of the PF03060 domain
+   - Position-Specific Scoring Matrix (PSSM)
+   - Lightweight profile Hidden Markov Model (HMM)
+
+2. Evaluate these models against SwissProt proteins
+   - Compare predictions to official Pfam annotations
+   - Compute classification metrics (Precision, Recall, F1, MCC)
+
+3. Characterize the biological properties of the domain family
+   - Taxonomic distribution
+   - Functional annotation (GO terms)
+   - Conservation analysis
 
 ## Folder Tree
 
-<pre> ``` Biological_Data_project/
+<pre> Biological_Data_project/
 │
-├── notebook_01_pipeline.ipynb      # Your main pipeline notebook (Step 1–5)
-├── README.md                       # Instructions, description, software used
+├── 01_model_building.ipynb
+├── 02_ground_truth_and_characterization.ipynb
+├── notebook_01_pipeline_old.ipynb
 │
-├── data/                           # Raw and processed data files
-│   ├── raw_PF03060_uniprot.tsv     # Full UniProt entries (Step 1)
-│   ├── PF03060_full_length.fasta   # Extracted full-length sequences (Step 2)
-│   ├── PF03060_metadata.csv        # Metadata for sequences (Step 2)
-│   ├── pf03060_domains.fasta       # Domain sequences (Step 2)
-│   └── domain_metadata.csv         # Domain metadata (Step 2)
+├── data/
+│ ├── raw_PF03060_uniprot.tsv
+│ ├── PF03060_full_length.fasta
+│ ├── PF03060_metadata.csv
+│ ├── swissprot_pos_PF03060.tsv
+│ ├── swissprot_neg_PF03060.tsv
+│ └── ...
 │
-├── results/                        # Results from analyses (MSA, HMM, etc.)
-│   ├── pf03060_msa_raw.fasta       # Crude seed-based MSA (Step 3)
-│   ├── pf03060_msa_clean.fasta     # Cleaned MSA (Step 3b)
-│   └── ...                         # Additional analysis outputs (e.g., HMMs)
+├── results/
+│ ├── Q12723_10-372_clustalo_msa.fasta
+│ ├── Q12723_10-372_clustalo_msa_NR90.fasta
+│ ├── Q12723_10-372_clustalo_msa_NR90_clean.fasta
+│ ├── PF03060_PSSM_logodds.csv
+│ ├── PF03060_profileHMM.json
+│ ├── PF03060_MSA_stats.csv
+│ ├── PF03060_eval_scores.csv
+│ └── ...
 │
-└── scripts/                        # Optional: separate Python helper scripts
-    └── utils.py                     # Functions for fetching, processing sequences
+└── README.md
 ``` </pre>
+
+# Notebook 1 – Model Construction  
+`01_model_building.ipynb`
+
+This notebook implements the first major block of the project.
+
+## Steps Performed
+
+1. Retrieve homologous sequences
+   - BLASTP search of seed domain (Q12723, positions 10–372)
+   - UniRef50 database via EBI REST API
+
+2. Build Multiple Sequence Alignment
+   - Clustal Omega
+   - 201 sequences aligned
+
+3. Redundancy Reduction
+   - 90% identity threshold (NR90)
+   - Reduced to 152 sequences
+
+4. Clean MSA
+   - Remove columns with >50% gap fraction
+   - Alignment reduced from 1620 columns to 350 columns
+
+5. Build Statistical Models
+   - PSSM (log-odds vs background frequencies)
+   - Lightweight profile HMM (match states + emission probabilities)
+
+6. Conservation Analysis
+   - Gap profile
+   - Shannon entropy per column
+   - Identification of highly conserved residues
+
+Outcome:
+- Clean domain alignment (~350 residues)
+- Reproducible statistical models saved in `results/`
+
+---
+
+# Notebook 2 – Model Evaluation and Characterization  
+`02_ground_truth_and_characterization.ipynb`
+
+This notebook evaluates the predictive performance of the models.
+
+## Ground Truth Definition
+
+SwissProt proteins were divided into:
+
+- Positives:
+  - Reviewed proteins annotated with Pfam PF03060
+- Negatives:
+  - Reviewed proteins without PF03060 annotation
+
+This provides a controlled evaluation dataset.
 
 
 ## Requirements
