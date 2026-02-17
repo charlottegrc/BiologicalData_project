@@ -1,0 +1,251 @@
+Hit	DB	Accession	Description	Organism	Length	Score(Bits)	Identities(%)	Positives(%)	E()
+1	UR50	UniRef50_Q12723	Nitronate monooxygenase n=5 Tax=Phaffomycetaceae TaxID=115784 RepID=2NPD_CYBMR	Phaffomycetaceae	374	1864	100.0	100.0	0.0
+2	UR50	UniRef50_K0KPI3	2-nitropropane dioxygenase n=3 Tax=Phaffomycetaceae TaxID=115784 RepID=K0KPI3_WICCF	Phaffomycetaceae	389	950	53.8	68.6	4.7e-124
+3	UR50	UniRef50_A0A1E3NVI5	Nitronate monooxygenase domain-containing protein (Fragment) n=1 Tax=Wickerhamomyces anomalus (strain ATCC 58044 / CBS 1984 / NCYC 433 / NRRL Y-366-8) TaxID=683960 RepID=A0A1E3NVI5_WICAA	Wickerhamomyces anomalus (strain ATCC 58044 / CBS 1984 / NCYC 433 / NRRL Y-366-8)	291	757	54.3	70.7	2.9e-96
+4	UR50	UniRef50_A0A0J9XB61	Nitronate monooxygenase domain-containing protein n=2 Tax=Geotrichum candidum TaxID=1173061 RepID=A0A0J9XB61_GEOCN	Geotrichum candidum	385	556	36.0	58.1	8.3e-65
+5	UR50	UniRef50_H0GQF4	YJR149W-like protein n=2 Tax=Saccharomyces TaxID=4930 RepID=H0GQF4_SACCK	Saccharomyces	382	498	35.1	52.2	3.1e-56
+6	UR50	UniRef50_A0A0V1Q3X7	Nitronate monooxygenase domain-containing protein n=5 Tax=Debaryomycetaceae TaxID=766764 RepID=A0A0V1Q3X7_9ASCO	Debaryomycetaceae	363	495	37.3	56.7	5.3e-56
+7	UR50	UniRef50_A0A1E4SHR4	2-nitropropane dioxygenase n=1 Tax=Suhomyces tanzawaensis NRRL Y-17324 TaxID=984487 RepID=A0A1E4SHR4_9ASCO	Suhomyces tanzawaensis NRRL Y-17324	383	494	34.9	55.9	1.3e-55
+8	UR50	UniRef50_UPI002224211E	uncharacterized protein n=1 Tax=Candida pseudojiufengensis TaxID=497109 RepID=UPI002224211E	Candida pseudojiufengensis	423	493	33.7	49.1	4.7e-55
+9	UR50	UniRef50_A5DJP4	Nitronate monooxygenase domain-containing protein n=1 Tax=Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324) TaxID=294746 RepID=A5DJP4_PICGU	Meyerozyma guilliermondii (strain ATCC 6260 / CBS 566 / DSM 6381 / JCM 1539 / NBRC 10279 / NRRL Y-324)	372	488	35.6	53.2	7.4e-55
+10	UR50	UniRef50_G3B954	2-nitropropane dioxygenase n=2 Tax=Candida tenuis TaxID=2315449 RepID=G3B954_CANTC	Candida tenuis	349	473	33.9	51.4	6.7e-53
+11	UR50	UniRef50_A0A2H0ZQZ8	Nitronate monooxygenase domain-containing protein n=3 Tax=Candida auris TaxID=498019 RepID=A0A2H0ZQZ8_CANAR	Candida auris	379	470	32.4	54.0	4e-52
+12	UR50	UniRef50_A0A7G3ZM94	Nitronate monooxygenase domain-containing protein n=3 Tax=Saccharomycetaceae TaxID=4893 RepID=A0A7G3ZM94_9SACH	Saccharomycetaceae	389	467	34.3	54.0	1.4e-51
+13	UR50	UniRef50_A0A9W4XC62	Nitronate monooxygenase domain-containing protein n=1 Tax=Candida verbasci TaxID=1227364 RepID=A0A9W4XC62_9ASCO	Candida verbasci	355	464	33.2	51.9	1.7e-51
+14	UR50	UniRef50_B9WJT3	2-nitropropane dioxygenase, putative n=15 Tax=Debaryomycetaceae TaxID=766764 RepID=B9WJT3_CANDC	Debaryomycetaceae	426	464	32.0	49.0	9.3e-51
+15	UR50	UniRef50_A0A1E3QP74	Nitronate monooxygenase domain-containing protein n=1 Tax=Babjeviella inositovora NRRL Y-12698 TaxID=984486 RepID=A0A1E3QP74_9ASCO	Babjeviella inositovora NRRL Y-12698	412	462	35.2	50.3	1.3e-50
+16	UR50	UniRef50_K8WKD0	Propionate 3-nitronate monooxygenase n=464 Tax=root TaxID=1 RepID=K8WKD0_9GAMM	root	353	457	36.2	56.3	1.7e-50
+17	UR50	UniRef50_UPI00315D3498	2-nitropropane dioxygenase n=2 Tax=Scheffersomyces TaxID=766733 RepID=UPI00315D3498	Scheffersomyces	385	457	32.8	52.2	3.8e-50
+18	UR50	UniRef50_A0A376B3N7	Related to Putative nitronate monooxygenase n=1 Tax=Saccharomycodes ludwigii TaxID=36035 RepID=A0A376B3N7_9ASCO	Saccharomycodes ludwigii	371	454	35.3	52.3	7.5e-50
+19	UR50	UniRef50_P47177	Putative nitronate monooxygenase n=18 Tax=Saccharomyces TaxID=4930 RepID=2NDP_YEAST	Saccharomyces	404	456	35.4	50.3	8.4e-50
+20	UR50	UniRef50_A0A8F3AGF4	nitric oxide dioxygenase n=1 Tax=Candida auris TaxID=498019 RepID=A0A8F3AGF4_CANAR	Candida auris	745	471	32.6	54.4	1.4e-49
+21	UR50	UniRef50_A0A9P7V535	Nitronate monooxygenase domain-containing protein n=1 Tax=Scheffersomyces spartinae TaxID=45513 RepID=A0A9P7V535_9ASCO	Scheffersomyces spartinae	370	451	34.6	51.7	2e-49
+22	UR50	UniRef50_A0A2V1ARB0	Large ribosomal subunit protein mL53 n=4 Tax=Candida/Metschnikowiaceae TaxID=2964429 RepID=A0A2V1ARB0_9ASCO	Candida/Metschnikowiaceae	480	458	33.8	53.1	2.2e-49
+23	UR50	UniRef50_A0AAW7KS62	Nitronate monooxygenase n=2 Tax=root TaxID=1 RepID=A0AAW7KS62_9GAMM	root	355	447	36.8	52.3	5.4e-49
+24	UR50	UniRef50_A0A8H7GNI2	Nitronate monooxygenase domain-containing protein n=2 Tax=Metschnikowia TaxID=27320 RepID=A0A8H7GNI2_9ASCO	Metschnikowia	383	449	35.3	53.3	5.5e-49
+25	UR50	UniRef50_A0A1E3NFV9	Nitronate monooxygenase domain-containing protein n=3 Tax=Pichia TaxID=4919 RepID=A0A1E3NFV9_9ASCO	Pichia	390	444	33.2	49.9	3.5e-48
+26	UR50	UniRef50_A0A1R4LHN9	Propionate 3-nitronate monooxygenase n=110 Tax=cellular organisms TaxID=131567 RepID=A0A1R4LHN9_VIBR1	cellular organisms	356	431	35.8	52.9	1.3e-46
+27	UR50	UniRef50_A0A1G4IYK5	LAMI_0B08636g1_1 n=3 Tax=Lachancea TaxID=300275 RepID=A0A1G4IYK5_9SACH	Lachancea	387	433	34.7	49.7	1.3e-46
+28	UR50	UniRef50_A0AAJ5UGI5	Propionate 3-nitronate monooxygenase n=16 Tax=Enterobacterales TaxID=91347 RepID=A0AAJ5UGI5_9ENTR	Enterobacterales	374	432	34.8	54.5	1.4e-46
+29	UR50	UniRef50_UPI0030E3525A	uncharacterized protein n=1 Tax=Lodderomyces beijingensis TaxID=1775926 RepID=UPI0030E3525A	Lodderomyces beijingensis	392	428	32.1	50.3	8.1e-46
+30	UR50	UniRef50_C4Y774	Nitronate monooxygenase domain-containing protein n=5 Tax=Metschnikowiaceae TaxID=27319 RepID=C4Y774_CLAL4	Metschnikowiaceae	396	426	32.4	51.9	1.7e-45
+31	UR50	UniRef50_A0A0H2MEY4	Propionate 3-nitronate monooxygenase n=3 Tax=Alphaproteobacteria TaxID=28211 RepID=A0A0H2MEY4_9PROT	Alphaproteobacteria	361	423	33.2	54.4	2.1e-45
+32	UR50	UniRef50_A0A7U7IAJ7	Propionate 3-nitronate monooxygenase n=15 Tax=Bacteria TaxID=2 RepID=A0A7U7IAJ7_9PSED	Bacteria	350	419	36.3	52.5	6.3e-45
+33	UR50	UniRef50_J1JVR4	Propionate 3-nitronate monooxygenase n=34 Tax=Bartonellaceae TaxID=772 RepID=J1JVR4_9HYPH	Bartonellaceae	354	417	34.9	50.9	1.4e-44
+34	UR50	UniRef50_A0A2E3BG54	Propionate 3-nitronate monooxygenase n=7 Tax=Alphaproteobacteria TaxID=28211 RepID=A0A2E3BG54_9PROT	Alphaproteobacteria	359	417	31.6	51.9	1.5e-44
+35	UR50	UniRef50_A0A095ZBG1	Propionate 3-nitronate monooxygenase n=16 Tax=Alcaligenaceae TaxID=506 RepID=A0A095ZBG1_9BURK	Alcaligenaceae	367	417	34.6	53.7	1.9e-44
+36	UR50	UniRef50_A3LSC3	2-nitropropane dioxygenases n=2 Tax=Scheffersomyces TaxID=766733 RepID=A3LSC3_PICST	Scheffersomyces	385	418	33.8	49.1	2e-44
+37	UR50	UniRef50_D0V3Y4	Nitronate monooxygenase n=244 Tax=Bacteria TaxID=2 RepID=NMO_PSESP	Bacteria	349	414	34.5	53.0	3.3e-44
+38	UR50	UniRef50_A0AAD5BIR1	Nitronate monooxygenase domain-containing protein n=1 Tax=Candida theae TaxID=1198502 RepID=A0AAD5BIR1_9ASCO	Candida theae	351	405	31.6	49.3	7.3e-43
+39	UR50	UniRef50_A0A642UDD8	Nitronate monooxygenase domain-containing protein n=2 Tax=Diutina rugosa TaxID=5481 RepID=A0A642UDD8_DIURU	Diutina rugosa	390	404	32.1	50.7	2.4e-42
+40	UR50	UniRef50_A5E687	Nitronate monooxygenase domain-containing protein n=7 Tax=Debaryomycetaceae TaxID=766764 RepID=A5E687_LODEL	Debaryomycetaceae	454	405	33.8	49.7	6.3e-42
+41	UR50	UniRef50_UPI003342256A	nitronate monooxygenase n=1 Tax=Salinisphaera sp. C84B14 TaxID=1304155 RepID=UPI003342256A	Salinisphaera sp. C84B14	357	399	34.0	51.9	6.3e-42
+42	UR50	UniRef50_F5S675	Propionate 3-nitronate monooxygenase n=88 Tax=Betaproteobacteria TaxID=28216 RepID=F5S675_KINKI	Betaproteobacteria	347	396	32.4	51.2	1.4e-41
+43	UR50	UniRef50_A0A0L0MG44	Propionate 3-nitronate monooxygenase n=8 Tax=Pseudomonadota TaxID=1224 RepID=A0A0L0MG44_9BURK	Pseudomonadota	327	393	34.3	51.2	2.3e-41
+44	UR50	UniRef50_UPI0032B11004	nitronate monooxygenase n=1 Tax=uncultured Salinisphaera sp. TaxID=359372 RepID=UPI0032B11004	uncultured Salinisphaera sp.	345	392	32.1	50.5	5e-41
+45	UR50	UniRef50_A0AAV5QKQ4	Nitronate monooxygenase n=1 Tax=Saccharomycopsis crataegensis TaxID=43959 RepID=A0AAV5QKQ4_9ASCO	Saccharomycopsis crataegensis	453	397	30.8	45.2	8.7e-41
+46	UR50	UniRef50_E1WYH4	Propionate 3-nitronate monooxygenase n=1 Tax=Halobacteriovorax marinus (strain ATCC BAA-682 / DSM 15412 / SJ) TaxID=862908 RepID=E1WYH4_HALMS	Halobacteriovorax marinus (strain ATCC BAA-682 / DSM 15412 / SJ)	345	385	31.4	51.5	5.3e-40
+47	UR50	UniRef50_UPI003299365E	nitronate monooxygenase family protein n=3 Tax=Rhodobacterales TaxID=204455 RepID=UPI003299365E	Rhodobacterales	353	383	32.6	50.1	1.2e-39
+48	UR50	UniRef50_D2W144	Predicted protein n=2 Tax=Naegleria gruberi TaxID=5762 RepID=D2W144_NAEGR	Naegleria gruberi	343	381	29.5	49.0	1.9e-39
+49	UR50	UniRef50_A0AAC9K9R2	Propionate 3-nitronate monooxygenase n=656 Tax=root TaxID=1 RepID=A0AAC9K9R2_9PROT	root	382	382	34.6	48.3	3.2e-39
+50	UR50	UniRef50_A0A017SU85	Propionate 3-nitronate monooxygenase n=5 Tax=Bacteria TaxID=2 RepID=A0A017SU85_9BACT	Bacteria	377	381	34.8	51.8	4.1e-39
+51	UR50	UniRef50_A0A2N8M6Z3	Propionate 3-nitronate monooxygenase n=40 Tax=Pseudomonadota TaxID=1224 RepID=A0A2N8M6Z3_9HYPH	Pseudomonadota	369	380	32.4	50.6	4.8e-39
+52	UR50	UniRef50_A0A5S3RVS4	Propionate 3-nitronate monooxygenase n=43 Tax=Gammaproteobacteria TaxID=1236 RepID=A0A5S3RVS4_9GAMM	Gammaproteobacteria	345	377	31.9	47.2	7.7e-39
+53	UR50	UniRef50_A0A7S0T5J9	Nitronate monooxygenase domain-containing protein n=6 Tax=cellular organisms TaxID=131567 RepID=A0A7S0T5J9_9RHOD	cellular organisms	360	377	31.9	52.1	1.1e-38
+54	UR50	UniRef50_A0A7W4W569	Propionate 3-nitronate monooxygenase n=1 Tax=Litorivivens lipolytica TaxID=1524264 RepID=A0A7W4W569_9GAMM	Litorivivens lipolytica	350	374	32.4	52.6	2.4e-38
+55	UR50	UniRef50_A0A0Q8F3P5	Propionate 3-nitronate monooxygenase n=562 Tax=root TaxID=1 RepID=A0A0Q8F3P5_9GAMM	root	344	370	34.0	47.2	7.9e-38
+56	UR50	UniRef50_A0A2N0WSZ8	Propionate 3-nitronate monooxygenase n=27 Tax=Bacteria TaxID=2 RepID=A0A2N0WSZ8_9GAMM	Bacteria	349	370	31.1	48.2	8.8e-38
+57	UR50	UniRef50_Q9HWH9	Nitronate monooxygenase n=3476 Tax=root TaxID=1 RepID=NMO_PSEAE	root	351	368	34.5	51.8	1.8e-37
+58	UR50	UniRef50_J0ZAJ4	Propionate 3-nitronate monooxygenase n=16 Tax=Bartonella TaxID=773 RepID=J0ZAJ4_9HYPH	Bartonella	354	368	33.4	49.4	1.9e-37
+59	UR50	UniRef50_A0A0U1PXD9	Propionate 3-nitronate monooxygenase n=229 Tax=Pseudomonadota TaxID=1224 RepID=A0A0U1PXD9_9BURK	Pseudomonadota	361	368	33.7	51.2	2.2e-37
+60	UR50	UniRef50_A0A090F9V6	Propionate 3-nitronate monooxygenase n=78 Tax=Pseudomonadota TaxID=1224 RepID=A0A090F9V6_MESPL	Pseudomonadota	361	368	32.4	50.3	2.2e-37
+61	UR50	UniRef50_A0A151XYN2	Propionate 3-nitronate monooxygenase n=1338 Tax=root TaxID=1 RepID=A0A151XYN2_9GAMM	root	347	367	34.1	50.0	2.3e-37
+62	UR50	UniRef50_A0A4P7HL27	Propionate 3-nitronate monooxygenase n=4 Tax=Alphaproteobacteria TaxID=28211 RepID=A0A4P7HL27_9RHOB	Alphaproteobacteria	365	368	31.9	50.1	2.4e-37
+63	UR50	UniRef50_A0A918JM18	Propionate 3-nitronate monooxygenase n=13 Tax=cellular organisms TaxID=131567 RepID=A0A918JM18_9BURK	cellular organisms	350	367	31.4	52.4	2.4e-37
+64	UR50	UniRef50_A0A3P3G0W6	Propionate 3-nitronate monooxygenase n=7 Tax=Alphaproteobacteria TaxID=28211 RepID=A0A3P3G0W6_9HYPH	Alphaproteobacteria	365	366	32.1	50.0	4.7e-37
+65	UR50	UniRef50_A0A7I8BX38	Propionate 3-nitronate monooxygenase n=23 Tax=root TaxID=1 RepID=A0A7I8BX38_9BURK	root	366	366	31.3	48.0	4.8e-37
+66	UR50	UniRef50_A0A370L9T0	Propionate 3-nitronate monooxygenase n=1 Tax=Bosea caraganae TaxID=2763117 RepID=A0A370L9T0_9HYPH	Bosea caraganae	361	365	32.9	48.4	6e-37
+67	UR50	UniRef50_A0A231UXI7	Propionate 3-nitronate monooxygenase n=5 Tax=Pseudomonadota TaxID=1224 RepID=A0A231UXI7_9HYPH	Pseudomonadota	357	364	32.3	50.4	7.7e-37
+68	UR50	UniRef50_A0A2K9MKU7	Propionate 3-nitronate monooxygenase n=4 Tax=Pseudomonadota TaxID=1224 RepID=A0A2K9MKU7_9RHOB	Pseudomonadota	337	362	33.5	48.5	9.8e-37
+69	UR50	UniRef50_A7HV28	Propionate 3-nitronate monooxygenase n=108 Tax=Pseudomonadota TaxID=1224 RepID=A7HV28_PARL1	Pseudomonadota	354	362	33.6	49.8	1.4e-36
+70	UR50	UniRef50_H3NXY0	Propionate 3-nitronate monooxygenase n=2 Tax=Pseudomonadota TaxID=1224 RepID=H3NXY0_9GAMM	Pseudomonadota	340	361	32.3	52.1	1.5e-36
+71	UR50	UniRef50_A1SW45	Propionate 3-nitronate monooxygenase n=268 Tax=cellular organisms TaxID=131567 RepID=A1SW45_PSYIN	cellular organisms	348	361	31.1	50.3	1.7e-36
+72	UR50	UniRef50_A0A6N6SIY1	Propionate 3-nitronate monooxygenase n=3 Tax=Alphaproteobacteria TaxID=28211 RepID=A0A6N6SIY1_9RHOB	Alphaproteobacteria	356	361	30.9	50.9	2.1e-36
+73	UR50	UniRef50_A0A1N7Q189	Propionate 3-nitronate monooxygenase n=108 Tax=Pseudomonadota TaxID=1224 RepID=A0A1N7Q189_9GAMM	Pseudomonadota	342	360	32.4	48.8	2.1e-36
+74	UR50	UniRef50_A0A0A3XS23	Propionate 3-nitronate monooxygenase n=33 Tax=Bacteria TaxID=2 RepID=A0A0A3XS23_BRAJP	Bacteria	359	360	31.1	49.1	3e-36
+75	UR50	UniRef50_A0A7S4E3J9	Nitronate monooxygenase domain-containing protein n=1 Tax=Pelagomonas calceolata TaxID=35677 RepID=A0A7S4E3J9_9STRA	Pelagomonas calceolata	364	359	32.2	52.3	4.7e-36
+76	UR50	UniRef50_A0A952LT39	Propionate 3-nitronate monooxygenase n=1 Tax=Gammaproteobacteria bacterium TaxID=1913989 RepID=A0A952LT39_9GAMM	Gammaproteobacteria bacterium	354	357	28.7	50.8	7.4e-36
+77	UR50	UniRef50_UPI00293E27DA	nitronate monooxygenase n=4 Tax=Niabella TaxID=379899 RepID=UPI00293E27DA	Niabella	375	356	30.8	50.3	1.6e-35
+78	UR50	UniRef50_A0A7C8CYL4	Propionate 3-nitronate monooxygenase n=63 Tax=root TaxID=1 RepID=A0A7C8CYL4_9GAMM	root	373	355	31.5	48.6	2.1e-35
+79	UR50	UniRef50_A0A7C8BNI2	Propionate 3-nitronate monooxygenase n=7 Tax=Pseudoclavibacter TaxID=255204 RepID=A0A7C8BNI2_9MICO	Pseudoclavibacter	347	353	34.2	49.0	2.4e-35
+80	UR50	UniRef50_A0A521D5N1	Propionate 3-nitronate monooxygenase n=836 Tax=root TaxID=1 RepID=A0A521D5N1_9RHOB	root	346	351	32.1	49.4	4.6e-35
+81	UR50	UniRef50_A0A1U9JY63	Propionate 3-nitronate monooxygenase n=17 Tax=Pseudomonadota TaxID=1224 RepID=A0A1U9JY63_9BURK	Pseudomonadota	355	350	31.1	49.9	7.8e-35
+82	UR50	UniRef50_A0A8J2T058	Nitronate monooxygenase domain-containing protein n=1 Tax=Pelagomonas calceolata TaxID=35677 RepID=A0A8J2T058_9STRA	Pelagomonas calceolata	558	359	32.2	52.3	9.1e-35
+83	UR50	UniRef50_A0A5P9H248	Propionate 3-nitronate monooxygenase n=17 Tax=Roseovarius TaxID=74030 RepID=A0A5P9H248_9RHOB	Roseovarius	349	348	31.1	45.0	1.3e-34
+84	UR50	UniRef50_A0A8T0LIT3	Nitronate monooxygenase domain-containing protein n=2 Tax=Phytophthora TaxID=4783 RepID=A0A8T0LIT3_9STRA	Phytophthora	375	348	31.0	46.8	2.2e-34
+85	UR50	UniRef50_A0A847F4S4	Propionate 3-nitronate monooxygenase n=1 Tax=Sandaracinaceae bacterium TaxID=2510337 RepID=A0A847F4S4_9BACT	Sandaracinaceae bacterium	370	347	32.0	49.8	2.8e-34
+86	UR50	UniRef50_A0A2T1KAA0	Propionate 3-nitronate monooxygenase n=1339 Tax=root TaxID=1 RepID=A0A2T1KAA0_9GAMM	root	346	345	30.8	47.6	3.4e-34
+87	UR50	UniRef50_A0A0A2X2E9	Propionate 3-nitronate monooxygenase n=2 Tax=Lysobacter TaxID=68 RepID=A0A0A2X2E9_9GAMM	Lysobacter	288	338	37.4	56.6	9.7e-34
+88	UR50	UniRef50_A0A1M5L8I2	Propionate 3-nitronate monooxygenase n=7 Tax=Bacteria TaxID=2 RepID=A0A1M5L8I2_9SPHI	Bacteria	353	342	29.8	48.6	1.1e-33
+89	UR50	UniRef50_A0A1E3VQN5	Propionate 3-nitronate monooxygenase n=2840 Tax=root TaxID=1 RepID=A0A1E3VQN5_9HYPH	root	372	343	31.0	47.4	1.1e-33
+90	UR50	UniRef50_F6A998	Propionate 3-nitronate monooxygenase n=41 Tax=cellular organisms TaxID=131567 RepID=F6A998_PSEF1	cellular organisms	350	341	30.2	50.3	1.4e-33
+91	UR50	UniRef50_A0A4Q7G217	Propionate 3-nitronate monooxygenase (Fragment) n=17 Tax=Bacteria TaxID=2 RepID=A0A4Q7G217_9BRAD	Bacteria	280	334	32.6	50.2	3.1e-33
+92	UR50	UniRef50_UPI0024AD7C90	nitronate monooxygenase n=2 Tax=Moraxella TaxID=475 RepID=UPI0024AD7C90	Moraxella	341	338	32.7	50.6	3.1e-33
+93	UR50	UniRef50_A0A7Y7CWF7	Propionate 3-nitronate monooxygenase n=1 Tax=Flavobacteriia bacterium TaxID=2044941 RepID=A0A7Y7CWF7_9BACT	Flavobacteriia bacterium	358	339	31.5	47.9	3.2e-33
+94	UR50	UniRef50_A0A921V4W8	Nitronate monooxygenase domain-containing protein n=3 Tax=Phytophthora kernoviae TaxID=325452 RepID=A0A921V4W8_9STRA	Phytophthora kernoviae	588	348	31.0	46.8	3.9e-33
+95	UR50	UniRef50_A0A1I0Y1V7	Propionate 3-nitronate monooxygenase n=1 Tax=Rhizobium sp. NFR07 TaxID=1566262 RepID=A0A1I0Y1V7_9HYPH	Rhizobium sp. NFR07	353	336	30.4	49.4	7.7e-33
+96	UR50	UniRef50_A0A2E5PTB8	Propionate 3-nitronate monooxygenase n=6 Tax=Bacteria TaxID=2 RepID=A0A2E5PTB8_UNCDE	Bacteria	347	334	31.1	50.0	1.3e-32
+97	UR50	UniRef50_UPI0019566A22	nitronate monooxygenase family protein n=1 Tax=Shouchella xiaoxiensis TaxID=766895 RepID=UPI0019566A22	Shouchella xiaoxiensis	335	332	33.4	49.1	2e-32
+98	UR50	UniRef50_A0A157RMR3	Propionate 3-nitronate monooxygenase n=323 Tax=root TaxID=1 RepID=A0A157RMR3_9BORD	root	354	332	32.4	48.0	2.9e-32
+99	UR50	UniRef50_UPI001F3EE74E	nitronate monooxygenase family protein n=1 Tax=Vibrio marisflavi TaxID=1216040 RepID=UPI001F3EE74E	Vibrio marisflavi	358	332	29.8	51.2	3.2e-32
+100	UR50	UniRef50_UPI00254F0A54	nitronate monooxygenase family protein n=1 Tax=Kingella kingae TaxID=504 RepID=UPI00254F0A54	Kingella kingae	234	323	33.5	51.0	3.9e-32
+101	UR50	UniRef50_A0A377ZUY1	Propionate 3-nitronate monooxygenase n=1 Tax=Klebsiella pneumoniae TaxID=573 RepID=A0A377ZUY1_KLEPN	Klebsiella pneumoniae	292	327	34.8	48.3	4.2e-32
+102	UR50	UniRef50_A0A149UZQ2	Propionate 3-nitronate monooxygenase (Fragment) n=3 Tax=Pseudomonadota TaxID=1224 RepID=A0A149UZQ2_9PROT	Pseudomonadota	278	326	34.0	50.3	4.2e-32
+103	UR50	UniRef50_K1ZF16	Propionate 3-nitronate monooxygenase n=1 Tax=uncultured bacterium TaxID=77133 RepID=K1ZF16_9BACT	uncultured bacterium	359	331	29.3	50.0	4.5e-32
+104	UR50	UniRef50_A0A3B9BWQ1	Propionate 3-nitronate monooxygenase n=5 Tax=Rhodobacterales TaxID=204455 RepID=A0A3B9BWQ1_9RHOB	Rhodobacterales	354	330	29.3	47.7	5.7e-32
+105	UR50	UniRef50_Q2FZX9	Probable nitronate monooxygenase n=1005 Tax=Bacteria TaxID=2 RepID=NMO_STAA8	Bacteria	355	329	29.8	51.1	8.1e-32
+106	UR50	UniRef50_A0A2L0VMC5	Propionate 3-nitronate monooxygenase n=67 Tax=Sphingomonadaceae TaxID=41297 RepID=A0A2L0VMC5_9SPHN	Sphingomonadaceae	363	329	31.0	48.2	9.4e-32
+107	UR50	UniRef50_UPI00278BEA0E	nitronate monooxygenase family protein n=1 Tax=Flavobacterium sp. '19STA2R22 D10 B1' TaxID=3037261 RepID=UPI00278BEA0E	Flavobacterium sp. '19STA2R22 D10 B1'	367	327	30.4	50.8	2e-31
+108	UR50	UniRef50_A0A1W7A8X3	Probable nitronate monooxygenase n=55 Tax=root TaxID=1 RepID=A0A1W7A8X3_9STAP	root	344	325	30.2	48.9	2.4e-31
+109	UR50	UniRef50_A0A699JLM0	Nitronate monooxygenase n=1 Tax=Tanacetum cinerariifolium TaxID=118510 RepID=A0A699JLM0_TANCI	Tanacetum cinerariifolium	714	335	30.2	48.8	4.2e-31
+110	UR50	UniRef50_A0A920SR91	Propionate 3-nitronate monooxygenase n=3 Tax=Bacteria TaxID=2 RepID=A0A920SR91_UNCPS	Bacteria	309	320	33.5	50.0	6.2e-31
+111	UR50	UniRef50_A0A6A5CHU1	Nitronate monooxygenase domain-containing protein n=1 Tax=Naegleria fowleri TaxID=5763 RepID=A0A6A5CHU1_NAEFO	Naegleria fowleri	596	332	29.4	49.7	6.3e-31
+112	UR50	UniRef50_A0A656K1Y6	Propionate 3-nitronate monooxygenase n=695 Tax=root TaxID=1 RepID=A0A656K1Y6_PSESF	root	331	321	31.2	47.7	7e-31
+113	UR50	UniRef50_A0A510IBN9	Propionate 3-nitronate monooxygenase n=7 Tax=Vibrio TaxID=662 RepID=A0A510IBN9_9VIBR	Vibrio	353	322	30.6	47.6	7.8e-31
+114	UR50	UniRef50_G4HH30	Probable nitronate monooxygenase n=302 Tax=Bacteria TaxID=2 RepID=G4HH30_9BACL	Bacteria	372	323	29.9	47.8	7.9e-31
+115	UR50	UniRef50_A0A248TFX9	Probable nitronate monooxygenase n=9 Tax=Bacillaceae TaxID=186817 RepID=A0A248TFX9_9BACI	Bacillaceae	356	322	30.9	48.4	8.2e-31
+116	UR50	UniRef50_I0JNL5	Probable nitronate monooxygenase n=220 Tax=root TaxID=1 RepID=I0JNL5_HALH3	root	359	322	28.8	50.0	8.7e-31
+117	UR50	UniRef50_A0A1L6TG93	Propionate 3-nitronate monooxygenase n=5 Tax=Piscirickettsia TaxID=1237 RepID=A0A1L6TG93_PISSA	Piscirickettsia	349	321	30.4	47.9	1e-30
+118	UR50	UniRef50_A0A1Q2CGH3	Propionate 3-nitronate monooxygenase n=2 Tax=Bacteria TaxID=2 RepID=A0A1Q2CGH3_9ACTN	Bacteria	335	320	31.2	47.6	1.1e-30
+119	UR50	UniRef50_A0A221KJR8	Propionate 3-nitronate monooxygenase n=316 Tax=Pseudomonadota TaxID=1224 RepID=A0A221KJR8_VITFI	Pseudomonadota	361	321	31.8	48.1	1.3e-30
+120	UR50	UniRef50_A1VQZ8	Propionate 3-nitronate monooxygenase n=207 Tax=Bacteria TaxID=2 RepID=A1VQZ8_POLNA	Bacteria	344	320	28.7	47.4	1.3e-30
+121	UR50	UniRef50_A0AAD7UN51	Nitronate monooxygenase domain-containing protein n=1 Tax=Chrysophaeum taylorii TaxID=2483200 RepID=A0AAD7UN51_9STRA	Chrysophaeum taylorii	329	319	33.0	47.4	1.3e-30
+122	UR50	UniRef50_A0A3D3LYY5	Propionate 3-nitronate monooxygenase n=10 Tax=Micrococcales TaxID=85006 RepID=A0A3D3LYY5_9MICC	Micrococcales	344	318	30.7	48.9	2.4e-30
+123	UR50	UniRef50_A0A4R6R497	Propionate 3-nitronate monooxygenase n=1 Tax=Aquabacterium commune TaxID=70586 RepID=A0A4R6R497_9BURK	Aquabacterium commune	615	328	31.8	46.6	2.4e-30
+124	UR50	UniRef50_F9DSX7	Probable nitronate monooxygenase n=36 Tax=Bacillales TaxID=1385 RepID=F9DSX7_9BACL	Bacillales	353	318	30.4	48.3	2.9e-30
+125	UR50	UniRef50_A0A5C6TZX4	Propionate 3-nitronate monooxygenase n=1 Tax=Piscinibacter aquaticus TaxID=392597 RepID=A0A5C6TZX4_9BURK	Piscinibacter aquaticus	798	329	30.7	45.8	3e-30
+126	UR50	UniRef50_UPI001B3385DE	nitronate monooxygenase family protein n=3 Tax=Bacillales TaxID=1385 RepID=UPI001B3385DE	Bacillales	333	316	29.3	49.2	3.8e-30
+127	UR50	UniRef50_A0A2A5EJS2	Propionate 3-nitronate monooxygenase n=18 Tax=Alphaproteobacteria TaxID=28211 RepID=A0A2A5EJS2_9HYPH	Alphaproteobacteria	391	318	29.2	45.1	5.6e-30
+128	UR50	UniRef50_A0A962L766	Propionate 3-nitronate monooxygenase (Fragment) n=5 Tax=cellular organisms TaxID=131567 RepID=A0A962L766_9GAMM	cellular organisms	223	307	34.9	51.1	6.2e-30
+129	UR50	UniRef50_A0A382TXM1	Nitronate monooxygenase domain-containing protein (Fragment) n=1 Tax=marine metagenome TaxID=408172 RepID=A0A382TXM1_9ZZZZ	marine metagenome	267	310	33.7	49.4	6.7e-30
+130	UR50	UniRef50_A0A379FL46	Propionate 3-nitronate monooxygenase n=5 Tax=Pseudomonadota TaxID=1224 RepID=A0A379FL46_PRORE	Pseudomonadota	254	308	37.9	52.2	9.6e-30
+131	UR50	UniRef50_A0A0N0DYF4	Putative enoyl-[acyl-carrier-protein] reductase n=4 Tax=Trypanosomatidae TaxID=5654 RepID=A0A0N0DYF4_LEPPY	Trypanosomatidae	372	313	29.6	45.3	2.1e-29
+132	UR50	UniRef50_A0A8J4Q4Y6	Nitronate monooxygenase domain-containing protein n=1 Tax=Polysphondylium violaceum TaxID=133409 RepID=A0A8J4Q4Y6_9MYCE	Polysphondylium violaceum	361	312	31.5	47.4	2.4e-29
+133	UR50	UniRef50_D3PPS4	Propionate 3-nitronate monooxygenase n=9 Tax=Bacteria TaxID=2 RepID=D3PPS4_MEIRD	Bacteria	350	311	32.0	45.9	2.7e-29
+134	UR50	UniRef50_B8KIS0	Propionate 3-nitronate monooxygenase n=1 Tax=gamma proteobacterium NOR5-3 TaxID=566466 RepID=B8KIS0_9GAMM	gamma proteobacterium NOR5-3	376	312	29.9	49.4	3.1e-29
+135	UR50	UniRef50_A0A3P3YK52	Nitronate monooxygenase domain-containing protein n=2 Tax=Plasmodiophora brassicae TaxID=37360 RepID=A0A3P3YK52_PLABS	Plasmodiophora brassicae	394	312	30.0	46.9	4.1e-29
+136	UR50	UniRef50_D3FXZ5	Probable nitronate monooxygenase n=113 Tax=Bacteria TaxID=2 RepID=D3FXZ5_ALKPO	Bacteria	360	310	29.8	51.3	4.5e-29
+137	UR50	UniRef50_A0A1D8JCY7	Probable nitronate monooxygenase n=26 Tax=Bacillales TaxID=1385 RepID=A0A1D8JCY7_9BACL	Bacillales	333	306	29.9	47.4	1e-28
+138	UR50	UniRef50_A0A6J5DPJ3	Propionate 3-nitronate monooxygenase n=2740 Tax=root TaxID=1 RepID=A0A6J5DPJ3_9BURK	root	356	307	31.2	47.3	1.1e-28
+139	UR50	UniRef50_A0A3T0KMP5	Probable nitronate monooxygenase n=2547 Tax=root TaxID=1 RepID=A0A3T0KMP5_9BACI	root	341	306	31.5	46.8	1.2e-28
+140	UR50	UniRef50_A0A1X7DGG5	Probable nitronate monooxygenase n=11 Tax=Priestia TaxID=2800373 RepID=A0A1X7DGG5_9BACI	Priestia	357	306	29.6	46.4	1.6e-28
+141	UR50	UniRef50_A0A0J8YUZ5	Propionate 3-nitronate monooxygenase n=13 Tax=Enterobacterales TaxID=91347 RepID=A0A0J8YUZ5_9GAMM	Enterobacterales	345	304	30.3	48.6	2.4e-28
+142	UR50	UniRef50_UPI000836B8A5	nitronate monooxygenase family protein n=1 Tax=Millisia brevis TaxID=264148 RepID=UPI000836B8A5	Millisia brevis	346	304	30.8	45.3	2.5e-28
+143	UR50	UniRef50_A0A7H4P3D9	Propionate 3-nitronate monooxygenase n=1 Tax=Klebsiella grimontii TaxID=2058152 RepID=A0A7H4P3D9_9ENTR	Klebsiella grimontii	258	298	34.9	50.4	2.9e-28
+144	UR50	UniRef50_A0A6V7R549	Probable nitronate monooxygenase n=1 Tax=Jeotgalicoccus schoeneichii TaxID=1812261 RepID=A0A6V7R549_9BACL	Jeotgalicoccus schoeneichii	341	302	30.3	48.5	4.4e-28
+145	UR50	UniRef50_A0A2E9DB27	Propionate 3-nitronate monooxygenase n=5 Tax=Bacteria TaxID=2 RepID=A0A2E9DB27_UNCCH	Bacteria	351	302	28.8	45.6	5.2e-28
+146	UR50	UniRef50_A0A0V0QZU5	Nitronate monooxygenase domain-containing protein n=1 Tax=Pseudocohnilembus persalinus TaxID=266149 RepID=A0A0V0QZU5_PSEPJ	Pseudocohnilembus persalinus	352	302	30.0	51.3	5.3e-28
+147	UR50	UniRef50_A0A2E1VMK3	Propionate 3-nitronate monooxygenase n=2 Tax=Alphaproteobacteria bacterium TaxID=1913988 RepID=A0A2E1VMK3_9PROT	Alphaproteobacteria bacterium	286	298	33.8	51.2	5.5e-28
+148	UR50	UniRef50_A0A965N9P4	Propionate 3-nitronate monooxygenase n=2 Tax=Burkholderiaceae TaxID=119060 RepID=A0A965N9P4_9BURK	Burkholderiaceae	351	301	28.3	48.8	7.2e-28
+149	UR50	UniRef50_UPI002938EA2B	nitronate monooxygenase n=1 Tax=Segetibacter sp. 3557_3 TaxID=2547429 RepID=UPI002938EA2B	Segetibacter sp. 3557_3	367	300	27.3	46.8	1.3e-27
+150	UR50	UniRef50_A0A365PFS9	Propionate 3-nitronate monooxygenase n=6 Tax=Pseudomonadota TaxID=1224 RepID=A0A365PFS9_ACIJU	Pseudomonadota	353	298	31.5	47.5	2e-27
+151	UR50	UniRef50_A0A917GAX0	Probable nitronate monooxygenase n=1 Tax=Lysinibacillus alkalisoli TaxID=1911548 RepID=A0A917GAX0_9BACI	Lysinibacillus alkalisoli	327	296	29.4	46.3	2.4e-27
+152	UR50	UniRef50_F5LH05	Probable nitronate monooxygenase n=17 Tax=Bacteria TaxID=2 RepID=F5LH05_9BACL	Bacteria	371	297	30.6	46.4	3.7e-27
+153	UR50	UniRef50_A0A365XXC2	Propionate 3-nitronate monooxygenase n=87 Tax=Bacteroidota TaxID=976 RepID=A0A365XXC2_9BACT	Bacteroidota	350	295	30.0	47.9	5e-27
+154	UR50	UniRef50_A0A841PJM6	Probable nitronate monooxygenase n=1 Tax=Geomicrobium halophilum TaxID=549000 RepID=A0A841PJM6_9BACL	Geomicrobium halophilum	344	294	28.7	45.0	6.2e-27
+155	UR50	UniRef50_H0TW96	Propionate 3-nitronate monooxygenase n=21 Tax=Pseudomonadota TaxID=1224 RepID=H0TW96_9BRAD	Pseudomonadota	353	294	29.3	49.3	7.3e-27
+156	UR50	UniRef50_A0A7G9SLQ9	Propionate 3-nitronate monooxygenase n=9 Tax=Gammaproteobacteria TaxID=1236 RepID=A0A7G9SLQ9_9GAMM	Gammaproteobacteria	258	288	32.5	49.3	8e-27
+157	UR50	UniRef50_A0A951KL64	Propionate 3-nitronate monooxygenase (Fragment) n=7 Tax=Bacteria TaxID=2 RepID=A0A951KL64_UNCCH	Bacteria	276	288	30.6	45.7	1.2e-26
+158	UR50	UniRef50_A0A966P2D3	Propionate 3-nitronate monooxygenase n=7 Tax=Betaproteobacteria TaxID=28216 RepID=A0A966P2D3_9PROT	Betaproteobacteria	389	294	29.1	42.9	1.3e-26
+159	UR50	UniRef50_A0A643FDY8	Propionate 3-nitronate monooxygenase n=2 Tax=Pseudomonadota TaxID=1224 RepID=A0A643FDY8_IDEDE	Pseudomonadota	349	292	28.4	48.5	1.3e-26
+160	UR50	UniRef50_A0A4R6BV93	Probable nitronate monooxygenase n=5 Tax=Macrococcus TaxID=69965 RepID=A0A4R6BV93_9STAP	Macrococcus	335	291	30.5	46.8	1.4e-26
+161	UR50	UniRef50_A0A7W1WTC0	Probable nitronate monooxygenase n=71 Tax=Terrabacteria group TaxID=1783272 RepID=A0A7W1WTC0_9BACL	Terrabacteria group	354	291	30.1	45.7	2e-26
+162	UR50	UniRef50_A0A0J5GYI5	Probable nitronate monooxygenase n=1 Tax=Bacillus sp. LL01 TaxID=1665556 RepID=A0A0J5GYI5_9BACI	Bacillus sp. LL01	355	291	27.3	46.8	2e-26
+163	UR50	UniRef50_UPI0028A65847	nitronate monooxygenase n=2 Tax=Acinetobacter TaxID=469 RepID=UPI0028A65847	Acinetobacter	229	283	32.1	52.5	2.1e-26
+164	UR50	UniRef50_A0A1L4D296	Propionate 3-nitronate monooxygenase n=1 Tax=Silvanigrella aquatica TaxID=1915309 RepID=A0A1L4D296_9BACT	Silvanigrella aquatica	348	290	29.5	45.7	2.5e-26
+165	UR50	UniRef50_A0A316L4X6	Propionate 3-nitronate monooxygenase n=1 Tax=Allomuricauda koreensis TaxID=2201895 RepID=A0A316L4X6_9FLAO	Allomuricauda koreensis	355	289	28.8	47.6	3.8e-26
+166	UR50	UniRef50_A0A2S1LQB5	Propionate 3-nitronate monooxygenase n=1 Tax=Flavobacterium kingsejongi TaxID=1678728 RepID=A0A2S1LQB5_9FLAO	Flavobacterium kingsejongi	351	288	27.3	47.6	4.9e-26
+167	UR50	UniRef50_A0A953WME4	Propionate 3-nitronate monooxygenase (Fragment) n=5 Tax=Pseudomonadota TaxID=1224 RepID=A0A953WME4_9PROT	Pseudomonadota	186	277	36.6	54.3	5.2e-26
+168	UR50	UniRef50_A0A1T5P904	Propionate 3-nitronate monooxygenase n=34 Tax=Chitinophagaceae TaxID=563835 RepID=A0A1T5P904_9BACT	Chitinophagaceae	355	287	28.8	47.4	7.3e-26
+169	UR50	UniRef50_A0A9D8QMU5	Probable nitronate monooxygenase n=5 Tax=Bacilli TaxID=91061 RepID=A0A9D8QMU5_9FIRM	Bacilli	337	286	29.9	47.9	7.4e-26
+170	UR50	UniRef50_A0A2E2WP31	Propionate 3-nitronate monooxygenase n=1 Tax=Legionellaceae bacterium TaxID=2026753 RepID=A0A2E2WP31_9GAMM	Legionellaceae bacterium	378	288	27.8	47.3	7.5e-26
+171	UR50	UniRef50_A0A9P1JJM7	Probable nitronate monooxygenase n=2 Tax=Bacillus subtilis group TaxID=653685 RepID=A0A9P1JJM7_BACAS	Bacillus subtilis group	479	291	30.6	46.3	9.6e-26
+172	UR50	UniRef50_A0A3M5B8G4	Propionate 3-nitronate monooxygenase n=6 Tax=Pseudomonadota TaxID=1224 RepID=A0A3M5B8G4_PSESS	Pseudomonadota	258	280	34.9	53.6	1.1e-25
+173	UR50	UniRef50_A0A484RSJ6	Enoyl-[acyl-carrier-protein] reductase [FMN] n=1 Tax=plant metagenome TaxID=1297885 RepID=A0A484RSJ6_9ZZZZ	plant metagenome	368	286	30.5	48.9	1.2e-25
+174	UR50	UniRef50_A0A1F4BPL5	Propionate 3-nitronate monooxygenase n=10 Tax=Bacteria TaxID=2 RepID=A0A1F4BPL5_9PROT	Bacteria	362	285	28.4	45.6	1.6e-25
+175	UR50	UniRef50_A0A2R8B3J4	Propionate 3-nitronate monooxygenase n=1 Tax=Defluviimonas aquaemixtae TaxID=1542388 RepID=A0A2R8B3J4_9RHOB	Defluviimonas aquaemixtae	348	284	29.8	45.3	1.7e-25
+176	UR50	UniRef50_A0A7V7RKC3	Probable nitronate monooxygenase n=4 Tax=Bacillaceae TaxID=186817 RepID=A0A7V7RKC3_9BACI	Bacillaceae	353	284	28.4	44.9	1.9e-25
+177	UR50	UniRef50_A0A3N5H6D8	Propionate 3-nitronate monooxygenase (Fragment) n=3 Tax=Betaproteobacteria TaxID=28216 RepID=A0A3N5H6D8_9BURK	Betaproteobacteria	255	278	30.4	45.0	2e-25
+178	UR50	UniRef50_UPI00147B10F5	nitronate monooxygenase family protein n=2 Tax=Ruegeria arenilitoris TaxID=1173585 RepID=UPI00147B10F5	Ruegeria arenilitoris	229	276	37.3	53.4	2.1e-25
+179	UR50	UniRef50_A0A358HS29	Propionate 3-nitronate monooxygenase (Fragment) n=6 Tax=Alphaproteobacteria TaxID=28211 RepID=A0A358HS29_9PROT	Alphaproteobacteria	274	278	34.1	52.0	3e-25
+180	UR50	UniRef50_F4PU69	Nitronate monooxygenase domain-containing protein n=1 Tax=Cavenderia fasciculata TaxID=261658 RepID=F4PU69_CACFS	Cavenderia fasciculata	410	285	28.2	47.2	3e-25
+181	UR50	UniRef50_A0A0W0VEL5	Aminoglycoside (3'') (9) adenylyltransferase n=1 Tax=Legionella lansingensis TaxID=45067 RepID=A0A0W0VEL5_9GAMM	Legionella lansingensis	657	290	29.1	50.3	3.2e-25
+182	UR50	UniRef50_UPI0021E0EF90	nitronate monooxygenase family protein n=1 Tax=Granulicella paludicola TaxID=474951 RepID=UPI0021E0EF90	Granulicella paludicola	355	282	28.5	47.7	3.7e-25
+183	UR50	UniRef50_UPI000F8EC950	nitronate monooxygenase family protein n=1 Tax=Allomuricauda beolgyonensis TaxID=864064 RepID=UPI000F8EC950	Allomuricauda beolgyonensis	362	282	29.8	48.2	4.1e-25
+184	UR50	UniRef50_A0A3M3ZJS0	Propionate 3-nitronate monooxygenase n=3 Tax=cellular organisms TaxID=131567 RepID=A0A3M3ZJS0_9PSED	cellular organisms	245	275	33.3	52.1	4.3e-25
+185	UR50	UniRef50_K9HNK8	Propionate 3-nitronate monooxygenase n=10 Tax=Pseudomonadota TaxID=1224 RepID=K9HNK8_9PROT	Pseudomonadota	362	281	28.3	43.4	5.6e-25
+186	UR50	UniRef50_Q4FVS0	Propionate 3-nitronate monooxygenase n=201 Tax=root TaxID=1 RepID=Q4FVS0_PSYA2	root	347	280	28.2	46.4	6.1e-25
+187	UR50	UniRef50_A0A2D9SDR2	Propionate 3-nitronate monooxygenase n=1 Tax=SAR116 cluster bacterium TaxID=2024888 RepID=A0A2D9SDR2_9PROT	SAR116 cluster bacterium	345	279	29.7	46.2	8.2e-25
+188	UR50	UniRef50_A0A383WA47	Nitronate monooxygenase domain-containing protein n=2 Tax=Tetradesmus obliquus TaxID=3088 RepID=A0A383WA47_TETOB	Tetradesmus obliquus	369	280	28.7	44.9	8.6e-25
+189	UR50	UniRef50_F3ZRD4	Propionate 3-nitronate monooxygenase n=4 Tax=Bacteroides TaxID=816 RepID=F3ZRD4_9BACE	Bacteroides	340	278	29.1	47.6	1e-24
+190	UR50	UniRef50_A0A0W0S0D0	Propionate 3-nitronate monooxygenase n=30 Tax=Bacteria TaxID=2 RepID=A0A0W0S0D0_9GAMM	Bacteria	365	277	29.4	46.5	2.1e-24
+191	UR50	UniRef50_D7VRG7	Propionate 3-nitronate monooxygenase n=483 Tax=Bacteroidota TaxID=976 RepID=D7VRG7_SPHSI	Bacteroidota	355	276	26.4	45.8	2.5e-24
+192	UR50	UniRef50_UPI001C2FB34D	nitronate monooxygenase family protein n=5 Tax=Pseudomonadota TaxID=1224 RepID=UPI001C2FB34D	Pseudomonadota	270	271	30.5	46.2	2.8e-24
+193	UR50	UniRef50_A0A7H2BAX6	Propionate 3-nitronate monooxygenase n=10 Tax=Rothia TaxID=32207 RepID=A0A7H2BAX6_9MICC	Rothia	341	275	28.1	45.5	2.8e-24
+194	UR50	UniRef50_A0A240AFJ6	Probable nitronate monooxygenase n=139 Tax=Bacillota TaxID=1239 RepID=A0A240AFJ6_9STAP	Bacillota	343	275	29.4	47.7	2.9e-24
+195	UR50	UniRef50_A0A952M1T5	Propionate 3-nitronate monooxygenase (Fragment) n=3 Tax=Pseudomonadota TaxID=1224 RepID=A0A952M1T5_9GAMM	Pseudomonadota	263	270	30.6	51.1	3.3e-24
+196	UR50	UniRef50_G0AHQ8	Propionate 3-nitronate monooxygenase n=5 Tax=Pseudomonadota TaxID=1224 RepID=G0AHQ8_COLFT	Pseudomonadota	378	276	28.4	43.5	3.5e-24
+197	UR50	UniRef50_L8JMP9	Propionate 3-nitronate monooxygenase n=13 Tax=Bacteroidota TaxID=976 RepID=L8JMP9_9BACT	Bacteroidota	361	275	30.4	49.2	3.8e-24
+198	UR50	UniRef50_C7JI48	Propionate 3-nitronate monooxygenase n=17 Tax=Acetobacter TaxID=434 RepID=C7JI48_ACEP3	Acetobacter	364	275	30.5	44.7	4e-24
+199	UR50	UniRef50_A0A524JPE3	Propionate 3-nitronate monooxygenase n=2 Tax=Thermodesulfobacteriota TaxID=200940 RepID=A0A524JPE3_9BACT	Thermodesulfobacteriota	364	275	29.4	47.2	4e-24
+200	UR50	UniRef50_UPI0023F40773	nitronate monooxygenase family protein n=2 Tax=Burkholderiaceae TaxID=119060 RepID=UPI0023F40773	Burkholderiaceae	365	275	27.6	46.8	4e-24
+201	UR50	UniRef50_A0A3A0AU24	Propionate 3-nitronate monooxygenase n=1 Tax=Chloroflexota bacterium TaxID=2026724 RepID=A0A3A0AU24_UNCCH	Chloroflexota bacterium	372	275	29.7	46.8	4.5e-24
+202	UR50	UniRef50_A0A2A4YMH9	Propionate 3-nitronate monooxygenase n=1 Tax=Aerophobetes bacterium TaxID=2030807 RepID=A0A2A4YMH9_UNCAE	Aerophobetes bacterium	357	274	29.3	46.9	4.9e-24
+203	UR50	UniRef50_W7LCD1	Probable nitronate monooxygenase n=76 Tax=Bacilli TaxID=91061 RepID=W7LCD1_CYTFI	Bacilli	355	273	28.0	46.1	6.6e-24
+204	UR50	UniRef50_A0A2U3AR45	Probable nitronate monooxygenase n=10 Tax=Kurthia TaxID=1649 RepID=A0A2U3AR45_9BACL	Kurthia	337	271	27.0	44.0	9.5e-24
+205	UR50	UniRef50_A0A1G0G2M8	Propionate 3-nitronate monooxygenase n=1 Tax=Gammaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_35_23 TaxID=1798274 RepID=A0A1G0G2M8_9GAMM	Gammaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_35_23	360	272	29.6	45.8	9.8e-24
+206	UR50	UniRef50_A0A919Z7U3	Probable nitronate monooxygenase n=60 Tax=Bacteria TaxID=2 RepID=A0A919Z7U3_9BACL	Bacteria	390	273	29.9	45.9	1.1e-23
+207	UR50	UniRef50_B1VHM0	Propionate 3-nitronate monooxygenase n=27 Tax=Corynebacterium TaxID=1716 RepID=B1VHM0_CORU7	Corynebacterium	342	270	26.5	44.2	1.4e-23
+208	UR50	UniRef50_A0A2E4F4S2	Propionate 3-nitronate monooxygenase n=6 Tax=Alphaproteobacteria TaxID=28211 RepID=A0A2E4F4S2_9PROT	Alphaproteobacteria	376	271	28.2	45.5	1.7e-23
+209	UR50	UniRef50_UPI003403E378	nitronate monooxygenase n=1 Tax=Streptomyces lavendulocolor TaxID=67316 RepID=UPI003403E378	Streptomyces lavendulocolor	574	276	28.1	45.1	1.8e-23
+210	UR50	UniRef50_A0A2R8CJ49	Propionate 3-nitronate monooxygenase n=2 Tax=Pseudomonadota TaxID=1224 RepID=A0A2R8CJ49_9GAMM	Pseudomonadota	240	263	36.5	52.4	2e-23
+211	UR50	UniRef50_A0A9E3APT7	Propionate 3-nitronate monooxygenase (Fragment) n=5 Tax=Pseudomonadota TaxID=1224 RepID=A0A9E3APT7_9CAUL	Pseudomonadota	213	261	33.7	51.4	2e-23
+212	UR50	UniRef50_A0A2T4ZBW0	Probable nitronate monooxygenase n=1 Tax=Desmospora activa DSM 45169 TaxID=1121389 RepID=A0A2T4ZBW0_9BACL	Desmospora activa DSM 45169	350	269	27.1	45.2	2.2e-23
+213	UR50	UniRef50_A0A158LYQ0	Propionate 3-nitronate monooxygenase n=16 Tax=Bacteria TaxID=2 RepID=A0A158LYQ0_9BORD	Bacteria	262	264	33.5	51.5	2.3e-23
+214	UR50	UniRef50_A0A0F6W2W2	Propionate 3-nitronate monooxygenase n=11 Tax=Bacteria TaxID=2 RepID=A0A0F6W2W2_9BACT	Bacteria	353	269	29.2	47.3	2.3e-23
+215	UR50	UniRef50_A0A941D061	Propionate 3-nitronate monooxygenase n=112 Tax=Pseudomonadota TaxID=1224 RepID=A0A941D061_9CAUL	Pseudomonadota	421	271	28.8	45.8	2.9e-23
+216	UR50	UniRef50_A0A9Q8CJE7	Probable nitronate monooxygenase n=4 Tax=Macrococcus TaxID=69965 RepID=A0A9Q8CJE7_9STAP	Macrococcus	334	267	28.0	46.9	3.3e-23
+217	UR50	UniRef50_Q8ES18	Probable nitronate monooxygenase n=1 Tax=Oceanobacillus iheyensis (strain DSM 14371 / CIP 107618 / JCM 11309 / KCTC 3954 / HTE831) TaxID=221109 RepID=Q8ES18_OCEIH	Oceanobacillus iheyensis (strain DSM 14371 / CIP 107618 / JCM 11309 / KCTC 3954 / HTE831)	355	268	29.7	47.8	3.3e-23
+218	UR50	UniRef50_A0A1B7M3C0	Propionate 3-nitronate monooxygenase n=2 Tax=Enteractinococcus helveticum TaxID=1837282 RepID=A0A1B7M3C0_9MICC	Enteractinococcus helveticum	343	267	29.6	44.5	3.8e-23
+219	UR50	UniRef50_A0A8J7KSP9	Probable nitronate monooxygenase n=1 Tax=Savagea serpentis TaxID=2785297 RepID=A0A8J7KSP9_9BACL	Savagea serpentis	327	266	26.4	47.0	4e-23
+220	UR50	UniRef50_A0A8K0F405	Mitochondrial nitronate monooxygenase n=1 Tax=Andalucia godoyi TaxID=505711 RepID=A0A8K0F405_ANDGO	Andalucia godoyi	402	269	27.1	42.3	4.4e-23
+221	UR50	UniRef50_A0A3E0WQN1	Probable nitronate monooxygenase n=55 Tax=Bacillota TaxID=1239 RepID=A0A3E0WQN1_9BACI	Bacillota	344	266	27.9	49.3	5.3e-23
+222	UR50	UniRef50_A0A2D6W1W8	Propionate 3-nitronate monooxygenase (Fragment) n=6 Tax=Pseudomonadota TaxID=1224 RepID=A0A2D6W1W8_9GAMM	Pseudomonadota	273	262	34.1	51.9	5.5e-23
+223	UR50	UniRef50_UPI0020218AD7	nitronate monooxygenase family protein n=1 Tax=Jeotgalicoccus sp. WY2 TaxID=2708346 RepID=UPI0020218AD7	Jeotgalicoccus sp. WY2	315	264	27.5	46.6	6.2e-23
+224	UR50	UniRef50_A0A380FFV3	Probable nitronate monooxygenase n=3 Tax=Bacteria TaxID=2 RepID=A0A380FFV3_STAGA	Bacteria	234	259	33.3	52.4	6.4e-23
+225	UR50	UniRef50_A0A1S1EUF7	Propionate 3-nitronate monooxygenase n=64 Tax=Actinomycetes TaxID=1760 RepID=A0A1S1EUF7_9CORY	Actinomycetes	368	266	28.8	45.6	7.4e-23
+226	UR50	UniRef50_L8Y3S7	Propionate 3-nitronate monooxygenase n=20 Tax=Wohlfahrtiimonas TaxID=582472 RepID=L8Y3S7_9GAMM	Wohlfahrtiimonas	351	265	29.1	45.9	8e-23
+227	UR50	UniRef50_UPI00036E7A90	nitronate monooxygenase family protein n=1 Tax=Moraxella boevrei TaxID=346665 RepID=UPI00036E7A90	Moraxella boevrei	246	259	29.8	45.7	8.3e-23
+228	UR50	UniRef50_A0A0N1B577	Propionate 3-nitronate monooxygenase n=1 Tax=beta proteobacterium AAP99 TaxID=1523428 RepID=A0A0N1B577_9PROT	beta proteobacterium AAP99	355	265	32.1	44.4	8.5e-23
+229	UR50	UniRef50_D4ZD08	Propionate 3-nitronate monooxygenase n=2 Tax=Gammaproteobacteria TaxID=1236 RepID=D4ZD08_SHEVD	Gammaproteobacteria	249	259	32.0	52.5	8.9e-23
+230	UR50	UniRef50_A0A9D5G8E1	Propionate 3-nitronate monooxygenase n=25 Tax=Bacteria TaxID=2 RepID=A0A9D5G8E1_UNCER	Bacteria	382	266	28.6	46.7	8.9e-23
+231	UR50	UniRef50_A0A1E2WVK4	Propionate 3-nitronate monooxygenase n=41 Tax=root TaxID=1 RepID=A0A1E2WVK4_9NOSO	root	359	265	28.1	43.9	9e-23
+232	UR50	UniRef50_A0A543ANA2	Propionate 3-nitronate monooxygenase n=1 Tax=Enteractinococcus coprophilus TaxID=1027633 RepID=A0A543ANA2_9MICC	Enteractinococcus coprophilus	343	264	29.6	45.1	9.8e-23
+233	UR50	UniRef50_A0A2H1HZD6	Propionate 3-nitronate monooxygenase n=11 Tax=Micrococcales TaxID=85006 RepID=A0A2H1HZD6_9MICO	Micrococcales	370	264	29.8	48.1	1.4e-22
+234	UR50	UniRef50_A0A537TLM1	Propionate 3-nitronate monooxygenase (Fragment) n=7 Tax=Pseudomonadota TaxID=1224 RepID=A0A537TLM1_9PROT	Pseudomonadota	239	256	34.9	50.0	1.9e-22
+235	UR50	UniRef50_A0A0D2MCK9	Nitronate monooxygenase n=1 Tax=Monoraphidium neglectum TaxID=145388 RepID=A0A0D2MCK9_9CHLO	Monoraphidium neglectum	368	263	26.3	45.7	1.9e-22
+236	UR50	UniRef50_A0A410RKK5	Propionate 3-nitronate monooxygenase n=69 Tax=Bacteria TaxID=2 RepID=A0A410RKK5_CORCK	Bacteria	394	264	28.6	44.9	1.9e-22
+237	UR50	UniRef50_A0A161HF82	Nitronate monooxygenase domain-containing protein n=3 Tax=Saccharomycetales TaxID=4892 RepID=A0A161HF82_9ASCO	Saccharomycetales	350	262	29.3	43.2	2.1e-22
+238	UR50	UniRef50_A0A7D6Z5B5	Propionate 3-nitronate monooxygenase n=270 Tax=root TaxID=1 RepID=A0A7D6Z5B5_9NOCA	root	355	262	32.1	49.5	2.2e-22
+239	UR50	UniRef50_D8IPT3	Propionate 3-nitronate monooxygenase n=1127 Tax=root TaxID=1 RepID=D8IPT3_HERSS	root	358	262	28.1	44.7	2.3e-22
+240	UR50	UniRef50_L7UKK0	Propionate 3-nitronate monooxygenase n=43 Tax=Bacteria TaxID=2 RepID=L7UKK0_MYXSD	Bacteria	362	262	28.2	46.1	2.4e-22
+241	UR50	UniRef50_O05413	Probable nitronate monooxygenase n=570 Tax=cellular organisms TaxID=131567 RepID=NMO_BACSU	cellular organisms	347	261	28.7	45.0	2.7e-22
+242	UR50	UniRef50_A0A1V3TZC7	Propionate 3-nitronate monooxygenase n=69 Tax=Bacteroidota TaxID=976 RepID=A0A1V3TZC7_ELIME	Bacteroidota	349	261	27.0	46.2	2.8e-22
+243	UR50	UniRef50_A0A0G3GQ84	Propionate 3-nitronate monooxygenase n=1 Tax=Corynebacterium epidermidicanis TaxID=1050174 RepID=A0A0G3GQ84_9CORY	Corynebacterium epidermidicanis	333	260	29.7	43.8	3e-22
+244	UR50	UniRef50_A0A2E2TKU2	Propionate 3-nitronate monooxygenase n=1 Tax=Legionellales bacterium TaxID=2026754 RepID=A0A2E2TKU2_9GAMM	Legionellales bacterium	358	261	34.3	46.5	3.2e-22
+245	UR50	UniRef50_E5AR61	Propionate 3-nitronate monooxygenase n=1246 Tax=root TaxID=1 RepID=E5AR61_MYCRK	root	385	262	28.7	45.8	3.3e-22
+246	UR50	UniRef50_I3U803	Propionate 3-nitronate monooxygenase n=1 Tax=Advenella kashmirensis (strain DSM 17095 / LMG 22695 / WT001) TaxID=1036672 RepID=I3U803_ADVKW	Advenella kashmirensis (strain DSM 17095 / LMG 22695 / WT001)	267	256	35.9	54.3	3.4e-22
+247	UR50	UniRef50_A0A2G0Y946	Propionate 3-nitronate monooxygenase n=22 Tax=Bacteria TaxID=2 RepID=A0A2G0Y946_9PSED	Bacteria	352	260	27.5	46.5	4e-22
+248	UR50	UniRef50_UPI0019D0E72C	nitronate monooxygenase family protein n=1 Tax=Pseudoclavibacter alba TaxID=272241 RepID=UPI0019D0E72C	Pseudoclavibacter alba	354	260	29.4	45.9	4.1e-22
+249	UR50	UniRef50_A0A4R6UQP8	Propionate 3-nitronate monooxygenase n=1 Tax=Permianibacter aggregans TaxID=1510150 RepID=A0A4R6UQP8_9GAMM	Permianibacter aggregans	358	260	26.3	44.9	4.4e-22
+250	UR50	UniRef50_A0A653VZF2	Probable nitronate monooxygenase n=338 Tax=root TaxID=1 RepID=A0A653VZF2_BACAB	root	343	259	27.6	45.3	4.8e-22
