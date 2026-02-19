@@ -133,7 +133,3 @@ results/ — MSAs, cleaned MSAs, PSSM, HMM files
    - The notebook supports running in Google Colab (mount Drive) or locally; set `data_dir = 'data'` for local runs.
    - The cleaning step enforces an allowed amino-acid alphabet, upper-cases sequences, pads/truncates to equal length, removes sequences/columns by gap fraction, and deduplicates.
    - When running large database searches (SwissProt), ensure sufficient local disk and memory; consider running on a machine with BLAST/HMMER installed or using Colab with small test sets.
-
-If you want, I can also:
-- run a quick spell/consistency pass to align Pfam IDs and example accessions across the notebooks and README,
-- or add a short `make`/`run.sh` helper that executes the notebook's shell commands in order.
